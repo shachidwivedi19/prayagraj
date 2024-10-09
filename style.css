@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+}
+h1{
+    color:red;
+    text-align: center;
+}
+p{
+    color: white;
+    text-decoration: ;
+}
+h2{
+    color:blue;
+    text-align: center;
+}
+
+    
+.pryag img{
+   width: 500px;
+   height: 400px;
+   display:flex;
+  
+  margin-left: 33%;
+  border-radius: 20%;
+   
+
+}
